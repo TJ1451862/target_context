@@ -1,0 +1,21 @@
+Steven Abney. 1995. Chunks and dependencies: Bringing processing evidence to bear on syntax. In Jennifer Cole, Georgia Green, and Jerry Morgan, editors, Computational Linguistics and the Foundations of Linguistic Theory, pages 145–164.
+Breck Baldwin. 1997. CogNIAC : A High Precision Pronoun Resolution Engine.
+F.C. Bartlett. 1932. Remembering. Cambridge University Press, Cambridge.
+Johan Bos, Stephen Clark, Mark Steedman, James Curran, and Julia Hockenmaier. 2004. Wide-coverage semantic representations from a CCG parser. In In Proceedings of the 20th International Conference on Computational Linguistics (COLING ’04). Geneva, Switzerland.
+Jill Burstein, Daniel Marcu, and Kevin Knight. 2003. Finding the WRITE Stuff: Automatic Identiﬁcation of Discourse Structure in Student Essays. IEEE Intelligent Systems, pages 32–39.
+S. Deerwester, S. T. Dumais, G. W. Furnas, T. K. Landauer, and R Harshman. 1990. Indexing by Latent Semantic Analysis. Journal of the American Society For Information Science, (41):391–407.
+Christine Fellbaum. 1998. WordNet: An Electronic Lexical Database. MIT Press, Cambridge, MA.
+A. Graesser, P. Wiemer-Hastings, K. Wiemer-Hastings, D. Harter, and N. Person. 2000. Using latent semantic analysis to evaluate the contributions of students in autotutor. Interactive Learning Environments, 8:149–169.
+Claire Grover, Colin Matheson, Andrei Mikheev, and Marc Moens. 2000. LT TTT - A Flexible Tokenisation Tool. In Proceedings of the Second Language Resources and Evaluation Conference.
+Harry Halpin, Johanna Moore, and Judy Robertson. 2004. Automatic analysis of plot for story rewriting. In In Proceedings of Empirical Methods in Natural Language Processing, Barcelona, Spain.
+Maya Hickmann. 2003. Children’s Discourse: person, space and time across language. Cambridge University Press, Cambridge, UK.
+Hans Kamp and Uwe Reyle. 1993. From Discourse to Logic. Kluwer Academic.
+Thomas. Landauer and Susan Dumais. 1997. A solution to Plato’s problem: The Latent Semantic Analysis theory of the acquisition, induction, and representation of knowledge. Psychological Review.
+B. Lemaire, S. Mandin, P. Dessus, and G. Denhire. 2005. Computational cognitive models of summarization assessment skills. In In Proceedings of the 27th Annual Meeting of the Cognitive Science Society, Stressa, Italy.
+Fiona McNeill, Harry Halpin, Ewan Klein, and Alan Bundy. 2006. Merging stories with shallow semantics. In Proceedings of the Knowledge Representation and Reasoning for Language Processing Workshop at the European Association for Computational Linguistics, Genoa, Italy.
+Erik T. Mueller. 2003. Story understanding through multi-representation model construction. In Graeme Hirst and Sergei Nirenburg, editors, Text Meaning: Proceedings of the HLT-NAACL 2003 Workshop, pages 46–53, East Stroudsburg, PA. Association for Computational Linguistics.
+Ani Nenkova and Rebecca Passonneau. 2004. Evaluating content selection in summarization: The pyramid method. In In Proceedings of the Joint Conference of the North American Association for Computational Linguistics and Human Language Technologies. Boston, USA.
+E. Riloff. 1999. Information extraction as a stepping stone toward story understanding. In Ashwin Ram and Kenneth Moorman, editors, Computational Models of Reading and Understanding. MIT Press.
+Judy Robertson and Beth Cross. 2003. Children’s perceptions about writing with their teacher and the StoryStation learning environment. Narrative and Interactive Learning Environments: Special Issue of International Journal of Continuing Engineering Education and Life-long Learning.
+Judy Robertson and Peter Wiemer-Hastings. 2002. Feedback on children’s stories via multiple interface agents. In International Conference on Intelligent Tutoring Systems, Biarritz, France.
+C. Rose, D. Bhembe, A. Roque, S. Siler, R. Srivastava, and K. VanLehn. 2002. A hybrid language understanding approach for robust selection of tutoring goals. In International Conference on Intelligent Tutoring Systems, Biarritz, France.
